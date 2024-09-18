@@ -1,15 +1,12 @@
+![MasterHead](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)
 <h1 align="center">Hi 👋, I'm Rishi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifW-daQ3F9e1UnyPM_YRUti5FRLEf1LLkTQ&s">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishi1163&label=Profile%20views&color=0e75b6&style=flat" alt="rishi1163" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishi1163" alt="rishi1163" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rishi1163" target="blank"><img src="https://img.shields.io/twitter/follow/rishi1163?logo=twitter&style=for-the-badge" alt="rishi1163" /></a> </p>
 
 - 🌱 I’m currently learning **nodejs,expressjs,mongodb.**
 
-- 👯 I’m looking to collaborate on **Full Stack porjects.**
+- 👯 I’m looking to collaborate on **Full Stack projects.**
 
 - 💬 Ask me about **react**
 
