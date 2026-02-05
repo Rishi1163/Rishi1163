@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifW-daQ3F9e1UnyPM_YRUti5FRLEf1LLkTQ&s" alt="rishi1136" /> </p>
 
-- 👨‍💻 All of my projects are available at [rishii-portfolio.netlify.app](rishii-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [rishii-portfolio.netlify.app](https://rishii-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN stack, Nextjs**
 
